@@ -1,5 +1,4 @@
 
-````markdown
 # 🎓 LearnMate AI
 
 > Your Smart Study Companion powered by Google Gemini AI
